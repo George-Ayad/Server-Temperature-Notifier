@@ -1,0 +1,2 @@
+logzero     # see github.com/metachris/logzero
+hwmon       # see github.com/Guillermo-C-A/Hwmon-python
